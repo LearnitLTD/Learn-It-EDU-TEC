@@ -1,6 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
-# [Learn it 项目]
+# [Learn it 项目][github-project-link]
 
 > 我们专注于打造覆盖K12全学段（小学、初中、高中）的教育解决方案。核心涵盖 | 源自 [小K研发团队]
 
